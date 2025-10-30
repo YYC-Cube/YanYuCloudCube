@@ -1,0 +1,11 @@
+{
+  "name": "@yyc3/yyc3-fn-yan",
+  "version": "0.1.0",
+  "private": false,
+  "description": "YanYu Cloud Cube - 股票金融 yan 子模块占位",
+  "scripts": {
+    "build": "echo \"build placeholder for yyc3-fn-yan\"",
+    "test": "echo \"test placeholder\""
+  },
+  "license": "MIT"
+}
