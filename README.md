@@ -148,6 +148,8 @@
 - `yyc3-finance` — 金融科技
 - `yyc3-Edge` — 边缘数据中心
 
+##GitHub https://github.com/YYC-Cube/YanYuCloudCube/git
+
 ## 示例内容与占位文件
 
 - 每个模块统一包含四个子目录：`cloud`、`cube`、`yan`、`yu`。
